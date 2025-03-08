@@ -1,3 +1,3 @@
 <?php
 
-$var = "Hello. This is a change."; 
+$var = "Helo. This is a change."; 
